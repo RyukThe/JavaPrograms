@@ -1,0 +1,11 @@
+package HelloWorld;
+
+public class Sample3 {
+	
+	public static void main(String [] args)
+	{
+		System.out.println("Hello world!!!!!!");
+		System.out.println("Welcome to world of testing");
+		System.out.println("Good Luck");
+	}
+}
